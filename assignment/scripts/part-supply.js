@@ -64,7 +64,7 @@ console.log('---  Stretch Goals  ---');
 console.log('7. Showing supplyChanges with "for of" loop');
 
 //I am going to come back to these stretch goals tonight 
-//and hopefully will finish these by tomorrow. I understand
+//and hopefully will finish them by tomorrow. I understand
 //if you don't/can't grade them if I am late, I just want 
 //to make sure to get the assignment in by 5. I will go over
 //my answers with a classmate if I'm too late. :)
